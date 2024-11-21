@@ -6,7 +6,7 @@
 - 📫 How to reach me: 1590648573@qq.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/cyf66666666)
 
-![](https://github-readme-stats.vercel.app/api?username=ZkingCYF&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=ZkingCYF&show_icons=true&theme=radical)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
